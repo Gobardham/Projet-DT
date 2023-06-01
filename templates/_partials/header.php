@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php?page=accueil">BLOG</a>
+    <a class="navbar-brand" href="#">BLOG</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -10,13 +10,16 @@
           <a class="nav-link active" aria-current="page" href="index.php?page=accueil">Accueil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?page=articles">Articles</a>
+          <a class="nav-link" href="index.php?page=articles">Artiste</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?page=contact">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?page=don">Faire un don</a>
+          <a class="nav-link" href="index.php?page=article-form">article-form</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?page=admin">admin</a>
         </li>
       </ul>
     </div>

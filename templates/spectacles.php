@@ -1,1 +1,0 @@
-<h1>Spectales</h1>
