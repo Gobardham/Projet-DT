@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="index.php?page=accueil">Accueil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?page=articles">Artiste</a>
+          <a class="nav-link" href="index.php?page=blog">Blog</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?page=contact">Contact</a>
