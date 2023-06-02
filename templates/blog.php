@@ -12,7 +12,7 @@
             <div class="card mb-4">
             <img src="./assets/img/<?= $blog['image'] ?>" class="card-img-top" style="padding: 10px;">
                 <div class="card-body">
-                <p class="card-text"><?= substr($blog['text'], 0, 100) ?></p>
+                <p class="card-text"><?= substr($blog['text'], 0, 255) ?></p>
                 </div>
             </div>
         </div>
